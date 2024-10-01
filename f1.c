@@ -2,5 +2,9 @@
 int main()
 {
   add();
+  sub()
+{
+  printf("hi");
+}
   printf("lavanya");
 }
